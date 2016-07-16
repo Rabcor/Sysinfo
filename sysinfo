@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Recommended Extras:
+#Dependencies (Recommended Extra Packages):
 #mesa-demos (glxinfo)
 #lm_sensors
 
