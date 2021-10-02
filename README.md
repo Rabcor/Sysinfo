@@ -1,2 +1,2 @@
 # Sysinfo
-Script Moved: https://github.com/Rabcor/scriptdump
+Moved to: https://github.com/Rabcor/scriptdump
